@@ -1,4 +1,4 @@
-# Sistema de Gestión Veterinaria
+# Monitoreo Ambiental con ESP32
 
 Este proyecto es un sistema de gestión para una clínica veterinaria. Permite a los usuarios administrar información relacionada con clientes, mascotas y citas médicas. El sistema está desarrollado en PHP y utiliza MySQL como base de datos.
 
